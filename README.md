@@ -92,7 +92,7 @@ novex-agency/
 ## 👨‍💻 Author
 
 **Zain**
-- GitHub: [@your-username](https://github.com/your-username)
+- GitHub: [@zain123932](https://github.com/zain123932)
 - Program: Software Engineering — 5th Semester
 - Internship: DecodeLabs Batch 2026
 
