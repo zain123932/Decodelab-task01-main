@@ -10,7 +10,7 @@ No frameworks. Just fundamentals mastered.
 ## 🌐 Live Preview
 
 > Add your GitHub Pages link here after deployment:
-> `https://your-username.github.io/novex-agency/`
+> `https://zain123932.github.io/Decodelab-task01-main/`
 
 ---
 
